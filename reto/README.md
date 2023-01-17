@@ -6,8 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Enrutamiento con componentes
 
-## Code scaffolding
-
+### Capturas
+![alt text](https://github.com/marwingaray/s16/blob/master/reto/src/assets/Captura%20de%20pantalla_20230117_102939.png?raw=true)
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
